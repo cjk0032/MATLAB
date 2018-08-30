@@ -1,6 +1,6 @@
 # matlab_exercise_1
-# test 1,2,3
 #
+# Personal repository of cjk0032. Experimental only.
 #
 #
 
